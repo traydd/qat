@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x33754D14BB1b75A90569086927cE7E6200b5a303",
-  "SCAN_LINK": "https://polygonscan.com/token/0x33754D14BB1b75A90569086927cE7E6200b5a303",
+  "CONTRACT_ADDRESS": "0x6899121238d373adfa58f194ddcfcb3fb58eb745",
+  "SCAN_LINK": "https://polygonscan.com/token/0x6899121238d373adfa58f194ddcfcb3fb58eb745",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -9,8 +9,8 @@
   "NFT_NAME": "Qatar 2022 Fiesta",
   "SYMBOL": "QWCF",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 25000000000000000000,
-  "DISPLAY_COST": 25,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/aquafrica-collection",
